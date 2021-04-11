@@ -1,0 +1,33 @@
+body {
+    background-image: url('covid.jpg');
+}
+#country{
+    background-color: lightblue;
+    padding: 5px;
+}
+
+.div_blue {
+    background-color: blue;
+    color: aliceblue;
+    padding: 5px;
+}
+button{
+color: black;
+    border-color: black;
+    background-color: blue;
+    padding: 6px;
+    width: 100px;
+}
+#from{
+    padding: 5px;
+
+}
+#to{
+
+    padding: 5px;
+}
+#country{
+
+    padding: 5px;
+}
+
